@@ -1,6 +1,8 @@
 #  print-scheduler-and-browser-navigation
 
-A collection of classic data structure problems implemented in pure C++ for educational purposes. Built by @omarrashraff & @minshawi0
+A collection of classic data structure problems implemented in pure C++ for educational purposes. Built by  [Omar Ashraf](https://github.com/omarrashraff)
+ &  [Mohamed Ahmed](https://github.com/minshawi0)
+
 
 ---
 
@@ -96,5 +98,7 @@ These implementations are built for learning and understanding the mathematical 
 
 ## Author
 
-@omarrashraff
-@minshawi0
+## Authors
+
+- [Omar Ashraf](https://github.com/omarrashraff)
+- [Mohamed Ahmed](https://github.com/minshawi0)
